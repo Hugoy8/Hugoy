@@ -1,4 +1,4 @@
-![Banner](https://media.discordapp.net/attachments/1092011453856362546/1200353933575585812/image.png?ex=65c5dfb7&is=65b36ab7&hm=e0c7c0c04ae21d799964ad28c3a0901f0dbf4e295d6d3d39dbc1e72a0f8315d7&=&format=webp&quality=lossless&width=2566&height=770)
+![Banner](https://media.discordapp.net/attachments/1092011453856362546/1209492935989530705/image.png?ex=65e71f13&is=65d4aa13&hm=88a42a7e1314eb6064cc434ca125f7550c66a7ebb05e943524e4382f6f64a6d6&=&format=webp&quality=lossless&width=1100&height=330)
 
 <h2>👋 Hey, je suis Hugo</h2>
 

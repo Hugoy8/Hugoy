@@ -1,4 +1,4 @@
-![Banner](https://media.discordapp.net/attachments/1092011453856362546/1209492935989530705/image.png?ex=65e71f13&is=65d4aa13&hm=88a42a7e1314eb6064cc434ca125f7550c66a7ebb05e943524e4382f6f64a6d6&=&format=webp&quality=lossless&width=1100&height=330)
+![Banner](https://hugoponthieux.fr/assets/public/banner_pro.png)
 
 <h2>👋 Hey, je suis Hugo</h2>
 
